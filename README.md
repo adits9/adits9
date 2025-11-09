@@ -1,6 +1,8 @@
 ## Hi there 👋 I am Adit Saxena
 I study Computer Science + Economics at University of Illinois Urbana-Champaign
 
+- 🔭 Interests: AI/ML, cloud computing, and building practical, data-driven solutions (always exploring new tools and frameworks).
+
 ## Tech Stack
 <p align="center">
 
