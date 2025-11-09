@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Adit Saxena
 I study Computer Science + Economics at University of Illinois Urbana-Champaign
 
+## Tech Stack
 <p align="center">
-  ## Tech Stack
 
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
