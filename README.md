@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I am Adit Saxena
+I study Computer Science + Economics at University of Illinois Urbana-Champaign
 <!--
 **adits9/adits9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
