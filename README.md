@@ -3,7 +3,7 @@ I study Computer Science + Economics at University of Illinois Urbana-Champaign
 
 - 🔭 Interests: AI/ML, cloud computing, and building practical, data-driven solutions (always exploring new tools!).
 - 📚 Current Coursework: Data Structure and Algorithms, Applied Machine Learning, Algorithms, Database Systems, Distributed Systems, Computer Systems, Financial Economics, Game Theory, etc.
-- 🤝 Aspiring leader & collaborator: I enjoy mentoring, organizing projects, and fostering inclusive teams to ship great work together.
+- 🤝 Aspiring leader & collaborator: I enjoy mentoring, organizing projects, and fostering inclusive collaborative teams.
 
 ## Tech Stack
 <p align="center">
