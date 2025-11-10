@@ -30,8 +30,6 @@ I study Computer Science + Economics at University of Illinois Urbana-Champaign
 ![LangChain](https://img.shields.io/badge/LangChain-2C8EBB?logo=chainlink&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)
 
 <!-- DevOps & Cloud -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
