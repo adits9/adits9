@@ -6,9 +6,7 @@ I study Computer Science + Economics at University of Illinois Urbana-Champaign
 - 🤝 Aspiring leader & collaborator: I enjoy mentoring, organizing projects, and fostering inclusive collaborative teams.
 
 ## Tech Stack
-<div align="center">
-
-<h4>Languages</h4>
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
@@ -19,10 +17,6 @@ I study Computer Science + Economics at University of Illinois Urbana-Champaign
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-<br/>
-
-<h4>Libraries &amp; Frameworks</h4>
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
@@ -36,10 +30,6 @@ I study Computer Science + Economics at University of Illinois Urbana-Champaign
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
 
-<br/>
-
-<h4>DevOps &amp; Cloud</h4>
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -48,7 +38,7 @@ I study Computer Science + Economics at University of Illinois Urbana-Champaign
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-</div>
+</p>
 
 <!--
 **adits9/adits9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
